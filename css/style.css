@@ -1,9 +1,8 @@
 @charset "UTF-8";
 
 body {
-    background: url("../images/NewWorld.jpg");
+    border: 3px solid #000000;
     margin: 0;
-    padding: 0;
 }
 
 header img {
@@ -12,10 +11,16 @@ header img {
 }
 
 nav th {
+    padding: 0;
     width: 100px;
     height: auto;
 }
 
 nav th:hover {
     background-color: #eeeeee;
+}
+
+.flexslider {
+    width: 80%;
+    height: auto;
 }

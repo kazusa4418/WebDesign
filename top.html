@@ -4,15 +4,21 @@
     <meta charset="UTF-8">
     <link rel="stylesheet" href="css/reset.css">
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="flexslider/flexslider.css" type="text/css" />
+    <script type="text/javascript" src="flexslider/jquery.min.js"></script>
+    <script type="text/javascript" src="flexslider/jquery.flexslider.js"></script>
+
+    <script type="text/javascript" charset="utf-8">
+        $(window).load(function() {
+            $('.flexslider').flexslider();
+        });
+    </script>
     <title>KAMATACAFE</title>
 </head>
 <body>
 
 <header>
-    <a href="top.html"><img src="images/logo2.png" alt="logo" usemap="#NewWorld"></a>
-    <map name="NewWorld">
-        <area shape="rect" coords="1150, 110, 1750, 600" href="http://www.tv-asahi.co.jp/shinsekaiyori/">
-    </map>
+    <a href="top.html"><img src="images/logo2.png" alt="logo"></a>
 </header>
 
 <nav>
@@ -27,11 +33,14 @@
     </table>
 </nav>
 
-<section>
-    <article>
-
-    </article>
-</section>
+<div class="flexslider">
+    <ul class="slides">
+        <li><p><img src="images/mainimage1.png" /></p></li>
+        <li><img src="images/mainimage2.png" /></li>
+        <li><img src="images/mainimage3.png" /></li>
+        <li><img src="images/mainimage4.png" /></li>
+    </ul>
+</div>
 
 <footer>
 
