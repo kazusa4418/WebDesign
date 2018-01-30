@@ -1,7 +1,19 @@
 @charset "UTF-8";
 
-header {
-    background-color: #553322;
+body {
+    background: url("../images/NewWorld.jpg");
+    margin: 0;
+    padding: 0;
+}
+
+header img {
+    width: 200px;
+    height: auto;
+}
+
+nav th {
+    width: 100px;
+    height: auto;
 }
 
 nav th:hover {
