@@ -1,6 +1,7 @@
 @charset "UTF-8";
 
 body {
+    border: 1px solid black;
     width: 100%;
     min-width: 800px;
 }
@@ -17,7 +18,7 @@ header {
 }
 
 .link img {
-    width: 70px;
+    width: 35px;
     height: auto;
     margin-left: 5px;
 }
@@ -26,6 +27,32 @@ nav {
     width: 80%;
     margin-left: auto;
     margin-right: auto;
+    padding-bottom: 5px;
+}
+
+.wrapper {
+    overflow: hidden;
+    height: 100%;
+}
+
+.menu_wrapper {
+    height: 100%;
+}
+
+.menu {
+    float: left;
+    position: fixed;
+    width: 20%;
+    height: 100%;
+    margin-top: 30px;
+}
+
+.menu a {
+    text-decoration: none;
+}
+
+.menu a:hover {
+
 }
 
 header img {
@@ -33,8 +60,8 @@ header img {
     height: auto;
 }
 
-nav th {
-    width: 100px;
+th img {
+    width: 130px;
     height: auto;
 }
 
@@ -44,4 +71,44 @@ nav th:hover {
 
 #NowPage {
     background-color: #eeeeee;
+}
+
+.drink {
+    width: 80%;
+    height: auto;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: 0;
+}
+
+.drink img {
+    width: 50%;
+    height: auto;
+}
+
+.drink div {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.item {
+    overflow: hidden;
+}
+
+.item img {
+    width: 100%;
+    height: auto;
+}
+
+.content {
+    background-color: #eeeeee;
+    float: left;
+    width: 30%;
+    height: auto;
+    margin: 15px 5px 15px 5px;
+    padding: 5px;
+}
+
+.content p {
+    text-align: center;
 }
