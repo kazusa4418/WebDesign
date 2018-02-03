@@ -3,6 +3,7 @@
 body {
     width: 100%;
     min-width: 800px;
+    margin: 0;
 }
 
 header {
@@ -34,10 +35,6 @@ nav {
     height: 100%;
 }
 
-.menu_wrapper {
-    height: 100%;
-}
-
 .menu {
     float: left;
     position: fixed;
@@ -52,6 +49,11 @@ nav {
     text-decoration: none;
     color: black;
     text-align: center;
+}
+
+.menu a:hover {
+    opacity: 0.5;
+    text-decoration: underline;
 }
 
 .menu a:hover {

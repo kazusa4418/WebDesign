@@ -1,13 +1,22 @@
 @charset "utf-8";
 
+html,body {
+    margin:0;
+    padding:0;
+}
+
 body {
+    background: lightgray;
     font-size: 16px;
     font-family: sans-serif;
     color: #393939;
 
-    width: 100%;
+    min-width: 1000px;
     height: auto;
-    margin: 0;
+}
+
+p {
+    line-height: 1.8;
 }
 
 header {
@@ -16,7 +25,7 @@ header {
 }
 
 .header-logo {
-    border: 1px solid green;
+    display: inline;
     width: 100%;
     height: 140px;
     margin: 0 0 0 60px;
@@ -26,13 +35,11 @@ header {
 h1 {
     color: yellow;
     display: inline;
-    border: 1px solid yellow;
     vertical-align: top;
     top: 80px;
 }
 
 .header-logo img {
-    border: 1px solid red;
     margin: 0;
     width: 25%;
     height: 100%;
@@ -44,7 +51,6 @@ nav {
     background: #393939;
 }
 .navbar {
-    display: none;
     list-style-type: none;
 }
 .navbar a {
@@ -65,10 +71,9 @@ nav {
         flex: 1 1 auto;
         text-align: center;
     }
-    .navbar a.nav-current {
-        background: #c84040;
-    }
 }
+
+
 
 /* slide */
 .slider {
@@ -80,10 +85,21 @@ nav {
 }
 
 /* main */
+.container {
+    margin: 0 auto;
+    max-width: 1000px;
+}
+
 main {
+    text-align: center;
+
     padding-top: 50px;
     padding-bottom: 50px;
-    background: lightgray;
+}
+
+.container ul {
+    list-style: none;
+    font-weight: bold;
 }
 
 @media screen and (min-width: 767px) {
@@ -93,6 +109,49 @@ main {
     }
 }
 
-.title {
-    text-align: center;
+.home-h2 {
+    padding-bottom: 5px;
+    margin: 30px 0 10px 0;
+    color: #c84040;
+    border-bottom: 1px dashed #c84040;
+    font-size: 1.3rem;
 }
+
+.home-news {
+    padding: 30px;
+    border-radius: 10px;
+    background: #eeeeee;
+}
+
+.info {
+    text-align: left;
+    padding: 0 0 0 180px;
+}
+
+footer {
+    background: black;
+    font-size: 0.9rem;
+    color: #fff;
+}
+.footer-container {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.footer-nav {
+    list-style-type: none;
+}
+.footer-nav li {
+    display: inline;
+    padding: 0 1rem 0 0;
+}
+.footer-nav a {
+    color: #fff;
+    text-decoration: none;
+}
+.footer-nav a:hover {
+    opacity: 0.5;
+}
+
+
+
+
