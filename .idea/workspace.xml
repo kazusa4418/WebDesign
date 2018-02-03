@@ -2,353 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="295e1d67-ae35-4ab3-9026-24ae2f22570b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/middle/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/middle/css/style.css" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/css/reset.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/CONTRIBUTING.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/LICENSE.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/.bower.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/MIT-LICENSE.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/bower.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/dist/jquery.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/dist/jquery.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/dist/jquery.min.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/ajax.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/ajax/jsonp.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/ajax/load.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/ajax/parseJSON.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/ajax/parseXML.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/ajax/script.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/ajax/var/nonce.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/ajax/var/rquery.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/ajax/xhr.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/attributes.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/attributes/attr.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/attributes/classes.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/attributes/prop.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/attributes/support.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/attributes/val.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/callbacks.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/core.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/core/access.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/core/init.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/core/parseHTML.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/core/ready.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/core/var/rsingleTag.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/css.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/css/addGetHookIf.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/css/curCSS.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/css/defaultDisplay.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/css/hiddenVisibleSelectors.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/css/support.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/css/swap.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/css/var/cssExpand.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/css/var/isHidden.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/css/var/rmargin.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/css/var/rnumnonpx.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/data.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/data/accepts.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/data/support.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/deferred.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/deprecated.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/dimensions.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/effects.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/effects/Tween.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/effects/animatedSelector.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/effects/support.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/event.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/event/ajax.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/event/alias.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/event/support.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/exports/amd.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/exports/global.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/intro.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/jquery.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/manipulation.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/manipulation/_evalUrl.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/manipulation/support.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/manipulation/var/rcheckableType.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/offset.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/outro.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/queue.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/queue/delay.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/selector-sizzle.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/selector.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/serialize.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/sizzle/dist/sizzle.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/sizzle/dist/sizzle.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/sizzle/dist/sizzle.min.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/support.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/traversing.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/traversing/findFilter.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/traversing/var/rneedsContext.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/var/class2type.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/var/concat.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/var/deletedIds.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/var/hasOwn.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/var/indexOf.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/var/pnum.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/var/push.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/var/rnotwhite.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/var/slice.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/var/strundefined.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/var/support.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/var/toString.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/bower_components/jquery/src/wrap.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/changelog.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/composer.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/css/base.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/css/font.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/css/mixins.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/css/resets.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/css/responsive.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/css/theme.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/css/variables.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/demo/basic-carousel.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/demo/basic-slider-with-caption.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/demo/basic-slider-with-custom-direction-nav.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/demo/carousel-min-max.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/demo/css/demo.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/demo/css/flexslider.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/demo/dynamic-carousel-min-max.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/demo/fonts/webfonts/geo-medium/eot/1110FC_0.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/demo/fonts/webfonts/geo-medium/svg/1110FC_0.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/demo/fonts/webfonts/geo-medium/svg/svg_test.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/demo/fonts/webfonts/geo-medium/ttf/1110FC_0.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/demo/fonts/webfonts/geo-medium/woff/1110FC_0.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/demo/fonts/webfonts/geo-regular/eot/11014B_0.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/demo/fonts/webfonts/geo-regular/svg/11014B_0.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/demo/fonts/webfonts/geo-regular/svg/svg_test.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/demo/fonts/webfonts/geo-regular/ttf/11014B_0.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/demo/fonts/webfonts/geo-regular/woff/11014B_0.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/demo/fonts/webfonts/geo-semibold/eot/style_169898.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/demo/fonts/webfonts/geo-semibold/svg/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/demo/fonts/webfonts/geo-semibold/svg/style_169898.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/demo/fonts/webfonts/geo-semibold/ttf/style_169898.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/demo/fonts/webfonts/geo-semibold/woff/style_169898.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/demo/images/kitchen_adventurer_caramel.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/demo/images/kitchen_adventurer_cheesecake_brownie.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/demo/images/kitchen_adventurer_donut.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/demo/images/kitchen_adventurer_lemon.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/demo/images/logo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/demo/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/demo/js/demo.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/demo/js/froogaloop.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/demo/js/jquery.easing.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/demo/js/jquery.fitvid.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/demo/js/jquery.flexslider.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/demo/js/jquery.mousewheel.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/demo/js/modernizr.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/demo/js/shBrushCss.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/demo/js/shBrushJScript.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/demo/js/shBrushXml.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/demo/js/shCore.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/demo/thumbnail-controlnav.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/demo/thumbnail-slider.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/demo/video-wistia.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/demo/video.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/flexslider.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/flexslider.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/fonts/flexslider-icon.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/fonts/flexslider-icon.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/fonts/flexslider-icon.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/fonts/flexslider-icon.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/images/bg_play_pause.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/jquery.flexslider-min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/jquery.flexslider.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/jquery.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/.bowerrc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/.jscsrc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/.npmignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/AUTHORS.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/CONTRIBUTING.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/MIT-LICENSE.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/bower.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/dist/jquery.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/dist/jquery.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/dist/jquery.min.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/package.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/ajax.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/ajax/jsonp.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/ajax/load.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/ajax/parseJSON.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/ajax/parseXML.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/ajax/script.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/ajax/var/nonce.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/ajax/var/rquery.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/ajax/xhr.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/attributes.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/attributes/attr.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/attributes/classes.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/attributes/prop.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/attributes/support.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/attributes/val.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/callbacks.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/core.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/core/access.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/core/init.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/core/parseHTML.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/core/ready.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/core/var/rsingleTag.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/css.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/css/addGetHookIf.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/css/curCSS.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/css/defaultDisplay.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/css/hiddenVisibleSelectors.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/css/support.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/css/swap.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/css/var/cssExpand.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/css/var/isHidden.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/css/var/rmargin.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/css/var/rnumnonpx.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/data.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/data/accepts.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/data/support.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/deferred.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/deprecated.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/dimensions.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/effects.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/effects/Tween.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/effects/animatedSelector.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/effects/support.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/event.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/event/ajax.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/event/alias.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/event/support.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/exports/amd.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/exports/global.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/intro.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/jquery.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/manipulation.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/manipulation/_evalUrl.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/manipulation/support.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/manipulation/var/rcheckableType.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/offset.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/outro.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/queue.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/queue/delay.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/selector-sizzle.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/selector.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/serialize.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/sizzle/dist/sizzle.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/sizzle/dist/sizzle.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/sizzle/dist/sizzle.min.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/sizzle/test/data/empty.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/sizzle/test/data/mixed_sort.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/sizzle/test/data/testinit.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/sizzle/test/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/sizzle/test/jquery.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/sizzle/test/unit/extending.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/sizzle/test/unit/selector.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/sizzle/test/unit/utilities.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/support.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/traversing.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/traversing/findFilter.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/traversing/var/rneedsContext.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/var/class2type.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/var/concat.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/var/deletedIds.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/var/hasOwn.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/var/indexOf.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/var/pnum.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/var/push.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/var/rnotwhite.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/var/slice.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/var/strundefined.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/var/support.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/var/toString.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/node_modules/jquery/src/wrap.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/flexslider/package.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/Food Menu.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/LINE.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/drink menu.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/food08.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/food251.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/food264.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/food291.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/food359.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/hot01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/hot02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/hot03.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/hot04.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/hot44.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/hot53.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/images/NewWorld.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/images/acc.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/images/gmap.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/images/googlemap.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/images/googlemap1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/images/hot05.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/images/hot06.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/images/hot166.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/images/hot167.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/images/hot169.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/images/hot38.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/images/hot73.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/images/ice01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/images/ice03.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/images/ice05.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/images/ice06.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/images/ice119.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/images/ice12.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/images/ice13.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/images/ice14.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/images/ice163.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/images/ice168.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/images/ice171.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/images/ichigo.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/images/logo1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/images/logo3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/images/logo4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/images/logo5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/images/logo6.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/images/mainimage1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/images/mainimage2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/images/mainimage3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/images/mainimage4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/images/mainimage5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/images/mainimage6.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/images/map.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/images/map_s.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/images/menu1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/images/menu2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/images/menu3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/images/menu5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/images/meron.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/images/pafe.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/images/photothumb.db" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/images/purin.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/images/renga3_02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/images/sweets256.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/images/sweets259.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/images/sweets311.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/images/sweets313.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/images/sweets317.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/images/sweets324.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/images/sweets326.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/images/sweets327.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/images/top1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/images/top2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/images/top3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/images/top5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/logo2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/mainimage1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/mainimage2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/mainimage3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/mainimage4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/menu1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/menu4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/photothumb.db" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/top4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/twitter.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/menu/css/reset.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/menu/css/style.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/menu/menu.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/top.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/final/top.html" afterPath="$PROJECT_DIR$/final/top.html" />
+      <change beforePath="$PROJECT_DIR$/middle/index.html" afterPath="$PROJECT_DIR$/middle/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -362,11 +19,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/middle/index.html">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/middle/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="770">
-              <caret line="14" column="51" lean-forward="true" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+            <state relative-caret-position="492">
+              <caret line="88" column="13" lean-forward="false" selection-start-line="88" selection-start-column="13" selection-end-line="88" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="top.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/final/top.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1508">
+              <caret line="52" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/final/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -375,8 +52,8 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/middle/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="935">
-              <caret line="67" column="16" lean-forward="false" selection-start-line="67" selection-start-column="16" selection-end-line="67" selection-end-column="16" />
+            <state relative-caret-position="493">
+              <caret line="134" column="0" lean-forward="false" selection-start-line="122" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -388,13 +65,18 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -406,7 +88,9 @@
         <option value="$PROJECT_DIR$/menu/menu.html" />
         <option value="$PROJECT_DIR$/menu/css/style.css" />
         <option value="$PROJECT_DIR$/middle/css/main.css" />
+        <option value="$PROJECT_DIR$/final/top.html" />
         <option value="$PROJECT_DIR$/middle/index.html" />
+        <option value="$PROJECT_DIR$/middle/css/style.css" />
       </list>
     </option>
   </component>
@@ -416,10 +100,13 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-11" />
-    <option name="width" value="1522" />
-    <option name="height" value="2011" />
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/final/flexslider/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="960" />
+    <option name="width" value="960" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -437,6 +124,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -459,7 +147,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -469,6 +158,7 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="aspect.path.notification.shown" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -481,6 +171,89 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="アプレット">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="アプリケーション">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="リモート">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="プラグイン">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -504,17 +277,19 @@
       <workItem from="1517337126099" duration="2136000" />
       <workItem from="1517382458947" duration="16877000" />
       <workItem from="1517407078896" duration="6064000" />
+      <workItem from="1517480403068" duration="143000" />
+      <workItem from="1517658938000" duration="432000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44284000" />
+    <option name="totallyTimeSpent" value="58129000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-13" y="-13" width="3026" height="2026" extended-state="6" />
+    <frame x="960" y="0" width="960" height="1040" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.086666666" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26588982" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -527,14 +302,89 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="パレット" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="UI デザイナー" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="デザイナー" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26588982" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="キャプチャー分析" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="パレット" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="UI デザイナー" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="デザイナー" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26588982" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="キャプチャー分析" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -544,197 +394,31 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/images/top1.png" />
-    <entry file="file://$PROJECT_DIR$/images/top2.png" />
-    <entry file="file://$PROJECT_DIR$/images/top3.png" />
-    <entry file="file://$PROJECT_DIR$/images/top5.png" />
-    <entry file="file://$PROJECT_DIR$/images/top4.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/menu4.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/reset.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="55">
-          <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/images/top4.png" />
+    <entry file="file://$PROJECT_DIR$/images/menu4.png" />
+    <entry file="file://$PROJECT_DIR$/css/reset.css" />
     <entry file="file://$PROJECT_DIR$/jquery.min.js" />
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/top.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="715">
-          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/top.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/reset.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/top.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/reset.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1045">
-          <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/top.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/reset.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1045">
-          <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/top.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="55">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/top.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="55">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="55">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/top.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/top.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/top.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/top.html" />
+    <entry file="file://$PROJECT_DIR$/top.html" />
+    <entry file="file://$PROJECT_DIR$/css/reset.css" />
+    <entry file="file://$PROJECT_DIR$/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/top.html" />
+    <entry file="file://$PROJECT_DIR$/css/reset.css" />
+    <entry file="file://$PROJECT_DIR$/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/top.html" />
+    <entry file="file://$PROJECT_DIR$/css/reset.css" />
+    <entry file="file://$PROJECT_DIR$/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/top.html" />
+    <entry file="file://$PROJECT_DIR$/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/top.html" />
+    <entry file="file://$PROJECT_DIR$/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/top.html" />
+    <entry file="file://$PROJECT_DIR$/top.html" />
+    <entry file="file://$PROJECT_DIR$/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/top.html" />
+    <entry file="file://$PROJECT_DIR$/css/style.css" />
     <entry file="file://$PROJECT_DIR$/images/acc.png" />
     <entry file="file://$PROJECT_DIR$/images/hot01.jpg" />
     <entry file="file://$PROJECT_DIR$/images/logo1.png" />
@@ -742,78 +426,61 @@
     <entry file="file://$PROJECT_DIR$/images/logo4.png" />
     <entry file="file://$PROJECT_DIR$/images/logo5.png" />
     <entry file="file://$PROJECT_DIR$/images/logo6.png" />
-    <entry file="file://$PROJECT_DIR$/images/logo2.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/images/logo2.png" />
     <entry file="file://$PROJECT_DIR$/images/top1.png" />
     <entry file="file://$PROJECT_DIR$/images/top2.png" />
     <entry file="file://$PROJECT_DIR$/images/top3.png" />
     <entry file="file://$PROJECT_DIR$/images/top5.png" />
-    <entry file="file://$PROJECT_DIR$/images/top4.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/menu4.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/images/top4.png" />
+    <entry file="file://$PROJECT_DIR$/images/menu4.png" />
     <entry file="file://$PROJECT_DIR$/jquery.min.js" />
-    <entry file="file://$PROJECT_DIR$/css/reset.css">
+    <entry file="file://$PROJECT_DIR$/css/reset.css" />
+    <entry file="file://$PROJECT_DIR$/top.html" />
+    <entry file="file://$PROJECT_DIR$/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/menu/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/menu/menu.html" />
+    <entry file="file://$PROJECT_DIR$/middle/css/normalize.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1045">
-          <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        <state relative-caret-position="261">
+          <caret line="9" column="36" lean-forward="false" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/middle/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="51" column="14" lean-forward="true" selection-start-line="51" selection-start-column="14" selection-end-line="51" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/final/top.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1508">
+          <caret line="52" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/top.html">
+    <entry file="file://$PROJECT_DIR$/final/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="11" column="18" lean-forward="false" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        <state relative-caret-position="15">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
+    <entry file="file://$PROJECT_DIR$/middle/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1045">
-          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/menu/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/menu/menu.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2200">
-          <caret line="40" column="10" lean-forward="true" selection-start-line="40" selection-start-column="10" selection-end-line="40" selection-end-column="10" />
+        <state relative-caret-position="492">
+          <caret line="88" column="13" lean-forward="false" selection-start-line="88" selection-start-column="13" selection-end-line="88" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/middle/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="935">
-          <caret line="67" column="16" lean-forward="false" selection-start-line="67" selection-start-column="16" selection-end-line="67" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/middle/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="770">
-          <caret line="14" column="51" lean-forward="true" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+        <state relative-caret-position="493">
+          <caret line="134" column="0" lean-forward="false" selection-start-line="122" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
           <folding />
         </state>
       </provider>
