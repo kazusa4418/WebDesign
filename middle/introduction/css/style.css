@@ -50,8 +50,6 @@ nav {
     background: #393939;
 }
 .navbar {
-    border: 1px solid red;
-
     list-style-type: none;
 }
 .navbar a {
