@@ -11,7 +11,7 @@ body {
     font-family: sans-serif;
     color: #393939;
 
-    min-width: 1300px;
+    min-width: 1000px;
 }
 
 p {
@@ -83,7 +83,7 @@ nav {
 
 .wrapper {
     overflow: hidden;
-    margin: 60px 0 0 0;
+    margin: 30px 0 0 0;
 }
 
 .nav_wrapper {
@@ -91,9 +91,6 @@ nav {
     float: left;
     width: 20%;
     height: auto;
-    padding-top: 40px;
-
-    min-width: 400px;
 }
 
 .nav {
