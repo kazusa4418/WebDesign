@@ -10,9 +10,8 @@ body {
     font-size: 16px;
     font-family: sans-serif;
     color: #393939;
-    width: 100%;
-    min-width: 1000px;
-    height: auto;
+
+    min-width: 1300px;
 }
 
 p {
@@ -51,6 +50,8 @@ nav {
     background: #393939;
 }
 .navbar {
+    border: 1px solid red;
+
     list-style-type: none;
 }
 .navbar a {
@@ -71,4 +72,103 @@ nav {
         flex: 1 1 auto;
         text-align: center;
     }
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 1000px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.wrapper {
+    overflow: hidden;
+    margin: 60px 0 0 0;
+}
+
+.nav_wrapper {
+    position: fixed;
+    float: left;
+    width: 20%;
+    height: auto;
+    padding-top: 40px;
+
+    min-width: 400px;
+}
+
+.nav {
+    text-align: center;
+    font-size: 28px;
+}
+
+.nav p {
+    font-weight: bold;
+}
+
+.nav_wrapper li {
+    list-style: none;
+    line-height: 40px;
+}
+
+.nav_wrapper a {
+    color: black;
+    text-decoration: none;
+}
+
+.nav_wrapper a:hover {
+    opacity: 0.5;
+}
+
+.info {
+    font-size: 24px;
+    text-align: center;
+    width: 80%;
+    height: auto;
+    margin-left: auto;
+    margin-right: 0;
+}
+
+.info_title {
+    display: inline;
+    width: 80%;
+    height: auto;
+}
+
+#info_top {
+    margin-top: 0;
+}
+
+.info img {
+    width: 60%;
+    height: auto;
+    margin-top: 160px;
+}
+.img_orchestra img {
+    margin: 0;
+}
+
+footer {
+    background: black;
+    font-size: 0.9rem;
+    color: #fff;
+}
+.footer-container {
+    margin: 0 auto;
+    max-width: 1000px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.footer-nav {
+    list-style-type: none;
+}
+.footer-nav li {
+    display: inline;
+    padding: 0 1rem 0 0;
+}
+.footer-nav a {
+    color: #fff;
+    text-decoration: none;
+}
+.footer-nav a:hover {
+    opacity: 0.5;
 }

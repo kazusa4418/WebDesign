@@ -36,6 +36,7 @@ nav {
 }
 
 .menu {
+    border: 1px solid black;
     float: left;
     position: fixed;
     width: 20%;
@@ -79,6 +80,7 @@ nav th:hover {
 }
 
 .drink {
+    border: 1px solid red;
     width: 80%;
     height: auto;
     margin-top: 30px;
