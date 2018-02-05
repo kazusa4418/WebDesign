@@ -1,0 +1,160 @@
+@charset "utf-8";
+
+html,body {
+    margin:0;
+    padding:0;
+}
+
+body {
+    background: lightgray;
+    font-size: 16px;
+    font-family: sans-serif;
+    color: #393939;
+
+    min-width: 1000px;
+}
+
+p {
+    line-height: 1.8;
+}
+
+header {
+    background-color: black;
+    height: 140px;
+}
+
+.header-logo {
+    display: inline;
+    width: 100%;
+    height: 140px;
+    margin: 0 0 0 60px;
+    padding: 0;
+}
+
+h1 {
+    color: yellow;
+    display: inline;
+    vertical-align: top;
+    top: 80px;
+}
+
+.header-logo img {
+    margin: 0;
+    width: 25%;
+    height: 100%;
+}
+
+/* nav */
+nav {
+    border: 1px solid black;
+    background: #393939;
+}
+.navbar {
+    list-style-type: none;
+}
+.navbar a {
+    display: block;
+    padding: 0.6rem 0;
+    color: #fff;
+    text-decoration: none;
+}
+.navbar a:hover {
+    text-decoration: underline;
+}
+
+@media screen and (min-width: 768px) {
+    .navbar {
+        display: flex !important;
+    }
+    .navbar li {
+        flex: 1 1 auto;
+        text-align: center;
+    }
+}
+
+/* slide */
+.slider {
+    background-color: black;
+    border: 1px solid black;
+}
+
+.slider_wrapper {
+    width: 90%;
+    height: auto;
+    margin: 0 auto;
+}
+/* main */
+.container {
+    margin: 0 auto;
+    max-width: 1000px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+@media screen and (min-width: 768px) {
+    .container {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+}
+
+main {
+    text-align: center;
+
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.container ul {
+    list-style: none;
+}
+
+@media screen and (min-width: 767px) {
+    main {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+}
+
+.home-h2 {
+    padding-bottom: 5px;
+    margin: 30px 0 10px 0;
+    color: #c84040;
+    border-bottom: 1px dashed #c84040;
+    font-size: 1.3rem;
+}
+
+.home-news {
+    padding: 30px;
+    border-radius: 10px;
+    background: #eeeeee;
+}
+
+.info {
+    text-align: left;
+    padding: 0 0 0 180px;
+}
+
+footer {
+    background: black;
+    font-size: 0.9rem;
+    color: #fff;
+}
+.footer-container {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.footer-nav {
+    list-style-type: none;
+}
+.footer-nav li {
+    display: inline;
+    padding: 0 1rem 0 0;
+}
+.footer-nav a {
+    color: #fff;
+    text-decoration: none;
+}
+.footer-nav a:hover {
+    opacity: 0.5;
+}

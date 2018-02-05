@@ -1,0 +1,55 @@
+@charset "UTF-8";
+
+body {
+    width: 100%;
+    min-width: 800px;
+    margin: 0;
+}
+
+header {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.link {
+    display: inline;
+    text-align: right;
+}
+
+.link img {
+    width: 35px;
+    height: auto;
+    margin-left: 5px;
+}
+
+nav {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header img {
+    width: 200px;
+    height: auto;
+}
+
+th img {
+    width: 130px;
+    height: auto;
+}
+
+nav th:hover {
+    background-color: #eeeeee;
+}
+
+.slider {
+    width: 80%;
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#NowPage {
+    background-color: #eeeeee;
+}
